@@ -7,3 +7,4 @@
 .xml linguist-language=js
 .h linguist-language=js
 .m linguist-language=js
+.plist linguist-language=js
