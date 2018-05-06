@@ -6,3 +6,5 @@
 *.lock linguist-language=JavaScript
 *.java linguist-language=JavaScript
 .xml linguist-language=JavaScript
+.h linguist-language=JavaScript
+.m linguist-language=JavaScript
